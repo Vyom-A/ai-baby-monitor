@@ -1,0 +1,16 @@
+body {
+    background-size: cover;
+}
+.header2 {
+color: red;
+}
+.header {
+background-color: aqua;
+color : blue;
+font-weight: bold;
+font-style : italic;
+}
+.sub-header {
+color : black;
+font-weight: 100;
+}
